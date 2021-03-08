@@ -4,12 +4,7 @@ A website to tell you if something is a waste of money.
 ## FAQ
 
 ### Are you okay?
-
-I'm not sure
-
-### Can I add something
-
-Yes, add an issue or if you're smart you can do a PR.
+idk
 
 ### What can an item be?
 
